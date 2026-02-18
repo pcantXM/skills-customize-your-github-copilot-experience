@@ -20,3 +20,5 @@ When generating content for this project:
 
 - **Learning-focused**: All content should be designed with clear learning objectives and appropriate difficulty levels
 - **Student-friendly**: Use clear, encouraging language that motivates students
+
+## Useless header to commit again
